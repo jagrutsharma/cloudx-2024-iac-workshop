@@ -1,1 +1,0 @@
-sam deploy -g -t ../../template.yaml --capabilities CAPABILITY_NAMED_IAM

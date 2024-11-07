@@ -7,7 +7,7 @@ if [ -z "$1" ]; then
 fi
 
 START_USER_ID=$1
-API_URL="https://qotr253ghj.execute-api.us-east-1.amazonaws.com/dev/click"
+API_URL="https://04nx5dy2xe.execute-api.us-east-1.amazonaws.com/dev/click"
 
 for ((i=0; i<200; i++)); do
   USER_ID=$((START_USER_ID + i))
