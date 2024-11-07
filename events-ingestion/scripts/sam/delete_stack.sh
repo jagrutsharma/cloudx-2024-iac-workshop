@@ -1,0 +1,1 @@
+sam delete --stack-name cloudx-demo-stack
